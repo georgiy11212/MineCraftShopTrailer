@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(180deg, #7ada34 0%, #745e2e 27.88%, #79553c 100%);
+    color: white;
+    margin: 0;
+}
+
+header div{
+    display: flex;
+    justify-content: center;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    background: white;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Ast {
+    background: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.And {
+    background: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.Ard {
+    background: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.Ath {
+    background: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+footer {
+    background: linear-gradient(90deg, #fffdfd 0%, #000 100%);
+}
+
+footer img {
+    width: 150px;
+    display: block;
+    margin: 0 auto;  
+}
+
+footer p {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
